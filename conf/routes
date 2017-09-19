@@ -1,0 +1,5 @@
+GET /user controllers.UserController.findAll
+POST /user controllers.UserController.save
+GET /user/:id controllers.UserController.findById(id:Long)
+PUT /user/:id controllers.UserController.edit(id:Long)
+DELETE /user/:id controllers.UserController.delete(id:Long)

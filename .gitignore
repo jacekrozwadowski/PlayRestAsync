@@ -1,0 +1,10 @@
+/target/
+/logs/
+/backup/
+/curl_run.txt
+/bin
+/.settings
+/.cache-main
+/.cache-tests
+/.classpath
+/.project
